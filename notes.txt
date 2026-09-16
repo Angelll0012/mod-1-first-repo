@@ -4,3 +4,4 @@ Git init
 Open vscode with code .
 Create a note.txt file and take note of the letter u - represent untracked 
 Git status - check the state of out local repo  
+git push
